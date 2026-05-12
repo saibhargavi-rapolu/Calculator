@@ -1,0 +1,38 @@
+body{
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(200, 255, 146);
+    border: 3px red;
+    box-sizing: border-box;
+}
+div{
+    padding:10px ;
+    
+}
+button{
+    border: 1px solid rgb(249, 41, 9);
+    font-size: 20px;
+    margin: 02px auto;
+    border-radius: 5px;
+    height:60px;
+    width: 50px;
+}
+.button{
+    padding: 5px;
+
+
+}
+.calculator{
+   border: 3px solid saddlebrown;
+   background-color: aquamarine;
+   display: inline-flex;
+   flex-direction:column;
+   border-radius: 10px;
+}
+input{ 
+    height:30px;
+    width: 210px;
+    border-radius: 5px;
+    border: 1px solid rgb(249, 41, 9);
+    tex
+}
